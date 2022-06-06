@@ -11,21 +11,21 @@ public class Main {
                 "c1",
                 0,
                 500,
-                false,
+                true,
                 1
         );
         CustomThread thread2 = new CustomThread(
                 "c2",
                 10,
                 1000,
-                false,
+                true,
                 2
         );
         CustomThread thread3 = new CustomThread(
                 "c3",
                 0,
                 2000,
-                false,
+                true,
                 10
         );
 
